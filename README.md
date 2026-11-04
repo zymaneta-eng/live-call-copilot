@@ -119,7 +119,7 @@ Measured on a 15-minute simulated client negotiation call (Mac mini M4, macOS 15
 This production system is engineered and maintained by **Nataliia Zyma**.
 
 The complete codebase and production binary are available for **commercial licensing**, **custom enterprise branding**, or **turnkey private deployment**:
-- **Direct Email:** [`zymaneta@gmail.com`](mailto:zymaneta@gmail.com)
+- **Platform Contact:** Contact strictly via Upwork messages
 - **GitHub:** [@zymaneta-eng](https://github.com/zymaneta-eng)
 - **Turnkey Integration:** Full setup, private profile ingestion, customized company terminology, and onboarding within 48–72 hours.
-- **SLA & Support:** Enterprise inquiries are reviewed and answered within 2–4 business hours.
+- **SLA & Support:** Inquiries are reviewed and answered within 2–4 business hours.
